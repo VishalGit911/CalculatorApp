@@ -15,8 +15,7 @@ class _CalculatorState extends State<Calculator> {
   int delet = 0;
   String opr = "";
 
-  int demo = 0;
-  int demo1 = 0;
+
 
   String arror = "Can't Divide by Zero";
 
